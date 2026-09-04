@@ -2,7 +2,7 @@
 
 End-to-end data analytics project on 2,592 active Airbnb listings across Singapore — from raw data cleaning to an interactive Power BI dashboard.
 
-![Dashboard Banner](assets/dashboard_banner.png)
+![Dashboard Banner](dashboard_banner.png)
 
 ## Project Overview
 
